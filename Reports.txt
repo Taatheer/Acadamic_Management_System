@@ -1,0 +1,7 @@
+R2265,Ronaldo,S4471,Y1,Investigation Reports,Sat Jun 08 20:09:24 MYT 2024,None,Marked,L8141,L5042
+R7087,Messi,S5674,Y1,Investigation Reports,Sat Jun 08 20:09:24 MYT 2024,None,None,L8141,None
+R8586,Haaland,S5711,Y1,CP1,Sun Jun 09 02:03:38 MYT 2024,https.moodle.my,Marked,L8141,L8280
+R8545,Xavi,S4042,Y2,Internship,Sat Jun 08 22:38:42 MYT 2024,None,None,None,None
+R3420,Iniesta,S1678,Y2,RMCP,Sun Jun 09 00:34:38 MYT 2024,None,None,None,None
+R1425,Mbappe,S6492,Y1,CP1,Sun Jun 09 00:35:44 MYT 2024,None,None,None,None
+R1437,Xavi,S4042,Y2,Internship,Sun Jun 09 01:59:11 MYT 2024,None,None,None,L2968
